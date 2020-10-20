@@ -1,15 +1,15 @@
-// window.alert('Oi')
+// Boolean
+// null
+// undefined
+// Number
+// String
 
-// console.log('pego barco avela')
+// var a = 1; // variavel
+// var b = '1'; // variavel
+// var a = null;
+var a = false;
+console.log(a)
+// console.log(b)
 
-var a;
-
-var b = "hd"
-
-var r = 'test';
-a = 'Hd'; 
-
-// a = 'placade captura'
-
-b = a
-console.log(b)
+// console.log('1'+'1')
+// console.log(1+1)
