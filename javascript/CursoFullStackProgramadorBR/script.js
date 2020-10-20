@@ -1,15 +1,29 @@
-// Boolean
-// null
-// undefined
-// Number
-// String
+// + adição
+// - subtação
+// * multiblicaçãp
+// / divisão
+// % módulo
+// ++ incremento
+// -- decremento
 
-// var a = 1; // variavel
-// var b = '1'; // variavel
-// var a = null;
-var a = false;
-console.log(a)
-// console.log(b)
+function log(v) {
+    console.table(v)
+}
 
-// console.log('1'+'1')
-// console.log(1+1)
+var a = 10;
+var b = 15;
+
+var c = a % b;
+log(c)
+var d = c - 5
+log(d)
+var e = c - d
+log(e, '\n')
+
+let aa = 10;
+a = aa + 1;
+
+// ++aa
+--aa
+
+log(aa)
